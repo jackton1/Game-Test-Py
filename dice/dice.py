@@ -1,3 +1,8 @@
+"""
+Created: 2016
+Author: Tonye Jack
+"""
+
 import random
 import re
 
