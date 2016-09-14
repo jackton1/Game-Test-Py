@@ -1,3 +1,8 @@
+"""
+Created: 2016
+Author: Tonye Jack
+"""
+
 class Move:
     better_than = None
     worse_than = None
